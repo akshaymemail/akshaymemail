@@ -1,14 +1,28 @@
-### Hi there 👋
+🔥 My name is Akshay I'm a Full Stack Developer in frontend backend and Mobile development for complex scalable web apps.
 
-**akshaymemail/akshaymemail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙏🏻 I Started learning to code when i was in high school because i wanted to make my own video games. Overtime time, I have gained a wealth of experience designing and developing android, ios and web applications.
 
-Here are some ideas to get you started:
+My Stack is mainly JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- React Native 
+- - React Navigation
+- - Redux
+- - React Native Elements,
+- - React Native Paper
+
+- React 
+- - Styled Components
+- - Material UI
+- - Redux.
+
+- Node.js
+- - Express
+- - Mysql
+- - Mongodb
+
+
+🙃 Do you want me to contribute to your project? Email me at: akshaymemail@gmail.com
+
+
+[![](https://www.codester.com/static/uploads/items/000/021/21656/preview-xl.jpg)](https://akshaymemail.github.io/mycv)
