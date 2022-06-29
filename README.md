@@ -1,5 +1,5 @@
 # Hello ! 🔥 
-## This is Akshay !
+## This is Akshay,
 I'm a Full Stack Developer in frontend backend and Mobile development for complex scalable apps.
 
 
