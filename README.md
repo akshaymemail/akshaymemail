@@ -1,5 +1,5 @@
 # Hello! 🔥 
-## This is AKSHAY!
+## This is Akshay!
 I'm a Full Stack Developer in frontend backend and Mobile development for complex scalable apps.
 
 🙏🏻 I Started learning to code when i was in high school because i wanted to make my own video games. Overtime time, I have gained a wealth of experience designing and developing android, ios and web applications.
