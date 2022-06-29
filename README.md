@@ -27,4 +27,4 @@ My Stack is mainly JS
 🙃 Do you want me to contribute to your project? Email me at: akshaymemail@gmail.com
 
 
-[![](https://www.codester.com/static/uploads/items/000/021/21656/preview-xl.jpg)](https://akshaymemail.github.io/mycv)
+[![](https://media.bizj.us/view/img/7735712/batz.jpg)](https://akshaymemail.github.io/mycv)
