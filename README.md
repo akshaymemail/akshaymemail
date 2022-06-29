@@ -3,8 +3,7 @@
 I'm a Full Stack Developer in frontend backend and Mobile development for complex scalable apps.
 
 
-🙏🏻 I Started learning to code when i was in high school because i wanted to make my own video games. Overtime time, I have gained a wealth of experience designing and developing android, ios and web applications, 
-But my best skill is actually in eating HotDogs. I am the undisputed king of HotDogs 😋.
+🙏🏻 I Started learning to code when i was in high school because i wanted to make my own video games. Overtime time, I have gained a wealth of experience designing and developing android, ios and web applications.
 
 
 My Stack is mainly JS
