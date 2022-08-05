@@ -28,7 +28,7 @@ My Stack is mainly JS
 - Next.js
 
 
-🙃 Do you want me to contribute to your project? Email me at: akshaymemail@gmail.com
+🙃 Do you want me to contribute to your project? Email me at: akshay@trioford.com
 
 
 [![](https://media.bizj.us/view/img/7735712/batz.jpg)](https://akshaymemail.github.io/mycv)
