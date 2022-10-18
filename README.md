@@ -53,7 +53,7 @@
 # My Experience
 
 ```bash
-Zenesys Technosys Pvt. Ltd. [Full Stack Software Developer] 06/222 - present
+Zenesys Technosys Pvt. Ltd. [Full Stack Software Developer] 06/22 - present
 
 ```
 
