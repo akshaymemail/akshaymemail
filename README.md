@@ -53,7 +53,7 @@
 # My Experience
 
 ```bash
-Jaakhoo [React.js Developer] 04/21 - 02/22
+Zenesys Technosys Pvt. Ltd. [Full Stack Software Developer] 06/222 - present
 
 ```
 
@@ -63,6 +63,6 @@ Codetrex Infotech Pvt. Ltd [React Native Developer] 03/22 - 05/22
 ```
 
 ```bash
-Zenesys Technosys Pvt. Ltd. [Full Stack Software Developer] 06/222 - present
+Jaakhoo [React.js Developer] 04/21 - 02/22
 
 ```
