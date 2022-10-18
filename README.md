@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Kumar Singh</h1>
-<h3 align="center">A passionate self taught Full Stack Developer in frontend,backend and Mobile development for complex scalable web and mobile apps.</h3>
+<h3 align="center">A passionate self taught Full Stack JavaScript Developer in frontend,backend and Mobile development for complex scalable web and mobile apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaymemail&label=Profile%20views&color=0e75b6&style=flat" alt="akshaymemail" /> </p>
 
