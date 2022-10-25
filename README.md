@@ -53,7 +53,7 @@
 # Resume
 
 ```diff
-+Zenesys Technosys Pvt. Ltd. [Software Developer] June /22 - Present
++Zenesys Technosys Pvt. Ltd. [Software Developer] June / 22 - Present
 1. E-commerce web app (React.js, Redux, AEM) [US Client]
  • Added some new feature on existing page.
  • Added new pages and designed UI.
