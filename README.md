@@ -53,7 +53,7 @@
 # Resume
 
 ```diff
-+Zenesys Technosys Pvt. Ltd. [Software Developer] June/22 - Present
++Zenesys Technosys Pvt. Ltd. [Software Developer] June /22 - Present
 1. E-commerce web app (React.js, Redux, AEM) [US Client]
  • Added some new feature on existing page.
  • Added new pages and designed UI.
@@ -73,7 +73,7 @@
 ```
 
 ```diff
-+CodeTrex Infotech [React Native Developer] March/22 - May/22
++CodeTrex Infotech [React Native Developer] March / 22 - May / 22
 
 1. Exchange Mobile App (React-Native, Redux)
  • Created multiple screen using react-navigation.
@@ -98,7 +98,7 @@
 ```
 
 ```diff
-+Jaakhoo [React.js Developer] April/21 - February/22
++Jaakhoo [React.js Developer] April / 21 - February / 22
 1. Customer Relationship Management (React.js, Redux)
  • Worked with Reactstrap and Ant Design to design UI.
  • Worked with bootstrap to add more CSS.
